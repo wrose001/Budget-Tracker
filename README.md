@@ -16,7 +16,7 @@ The functionality of this Budget Tracker application allows users to add expense
 
 ## Deployment
 
-[https://fitness-tracker-wr.herokuapp.com/?id=5e98cb77245598001711fef0](https://fitness-tracker-wr.herokuapp.com/?id=5e98cb77245598001711fef0)
+[https://budget-tracker-wr.herokuapp.com/](https://budget-tracker-wr.herokuapp.com/)
 
 ## Images
 
