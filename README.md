@@ -1,13 +1,13 @@
 # Budget-Tracker
 
-This web application allows a user to create and track a daily workout. Multiple exercises can be logged in a give day. For resistance workouts, a user can track the name, type, weight, sets, reps, and duration of the exercise. For cardio workouts, a user can track the distance traveled, as well. These exercises are represented graphic in a series of graphs and charts on the dashboard.
+The functionality of this Budget Tracker application allows users to add expenses and deposits either online or offline. When transactions occur offline, these populate when the app is brought back online. A stand alone manifest allows users to save to their smartphone homescreen as an app.
 
 ### Included Files
 
 * models folder
 * public folder
 * routes folder
-* seeders folder
+* gitignore
 * package.json
 * server.js
 * README.md
