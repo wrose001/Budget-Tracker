@@ -26,7 +26,7 @@ The functionality of this Budget Tracker application allows users to add expense
 
 ## Built With
 
-This app was built with a Mongo database, using a Mongoose Schema. Routes are handled through Express and Morgan serving as middleware. The app has been deployed on Heroku. It should also be noted that the frontend code was provided.
+This app was built with service-worker.js and a manifest.json. Javascript, HTML, and CSS were used, as well.
 
 ## Contributing
 
