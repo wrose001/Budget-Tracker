@@ -18,11 +18,9 @@ The functionality of this Budget Tracker application allows users to add expense
 
 [https://budget-tracker-wr.herokuapp.com/](https://budget-tracker-wr.herokuapp.com/)
 
-## Images
+## Video
 
-![Homepage](public/images/home.png) 
-![New Workout](public/images/newWorkout.png) 
-![Stats Page](public/images/stats.png) 
+![Budget Tracker GIF](public/video/budget.gif) 
 
 ## Built With
 
@@ -36,9 +34,14 @@ Please make sure to update tests as appropriate.
 
 # Acknowledgments
 
-Many thanks to my tutors, Tammy and Sai, as well our TA, Owais, and Calvin, my instructor, for help with MongoDB, setting up the routes, and deployment on Heroku.
+Many thanks to my tutor, Tammy, as well our TAs, Owais and Amanda, and Calvin, my instructor, for help with servicer workers and the manifest, as well as deployment on Heroku.
 
+# Badges
 
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 
